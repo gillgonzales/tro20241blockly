@@ -13,7 +13,7 @@
  */
 'use strict';
 
-let language = 'en'; // Default to English.
+let language = 'pt-br'; // Default to English.
 
 // Run this setup code once while still rendering the head.
 (function () {
